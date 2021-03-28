@@ -1,4 +1,4 @@
-![](RackMultipart20210328-4-r5hdge_html_f8a27779cd9f4d23.png)
+<p align="center"><img width="500" height ="300" src="https://github.com/SreenidhiDurgam3/world_development_explorer/charts/Picture1.png">
 
 [**https://datatopics.worldbank.org/world-development-indicators/**](https://datatopics.worldbank.org/world-development-indicators/) **-** I had a skim through the webpage and really liked the UI and the way they are presenting open source data along with data indicators understanding and data types , time , location information. The best part of this webpage is[http://www.worlddev.xyz/](http://www.worlddev.xyz/) - where we can actually visualize the data on cloud and without any third party tool like python, R and tableau we can do actual visualizations and analyze this data – I loved the way this website is built and I really appreciate this and thanks to Chaoji Wang for sharing this webpage with us – I am very sure most of us would use this open source data in many future projects and for our career development establishment.
 
